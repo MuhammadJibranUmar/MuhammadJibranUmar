@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuhammadJibranUmar
 - 👀 I’m interested in Web development and App Programming.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Java
+- 💞️ I’m looking to collaborate on C++
 - 🌳 I have learnt HTML 5 and CSS.
 
 
